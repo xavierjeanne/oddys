@@ -176,7 +176,7 @@
                 <li></li>
                 <li></li>
             </ul>
-            <h1>Oddyz</h1>
+            <h1>Oddy</h1>
         </div>
     </body>
 </html>
