@@ -21,6 +21,7 @@
         font-family: "Seymour One", sans-serif;
         font-weight: 400;
         font-style: normal;
+        overflow: hidden;
         }
         
         .sound-container {
